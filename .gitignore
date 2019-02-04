@@ -7,3 +7,4 @@ db.sqlite3
 .DS_Store
 macro.cmd
 start_server.cmd
+secret.py
